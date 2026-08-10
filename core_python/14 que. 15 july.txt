@@ -1,0 +1,14 @@
+Find the digital root of a number.
+Find the second largest digit in a number.
+Count the occurrence of a specific digit in a number.
+Count the prime digits in a number.
+Print the binary representation of a decimal number.
+Reverse a binary number.
+Find the sum of all digits until a single digit is obtained.
+Print all Armstrong numbers within a given range.
+Print all Perfect numbers within a given range.
+Print all Strong numbers within a given range.
+Find the largest and smallest numbers entered by the user until 0 is entered.
+Find the average of all positive numbers entered by the user until a negative number is entered.
+Simulate a simple login system with username and password validation.
+Implement a basic shopping cart where the user can add items until choosing to exit.

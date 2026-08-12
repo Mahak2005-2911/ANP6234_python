@@ -1,3 +1,4 @@
+# we r not able to access privte variable in child class.
 class Cloths:
     def __init__(self):
         self.__cname="cotton cloths"

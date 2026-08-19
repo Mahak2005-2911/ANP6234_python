@@ -17,4 +17,4 @@ print(fruits)
 del fruits[1]
 print(fruits)
 del fruits
-print(fruits)
+print(fruits)#it will give error
